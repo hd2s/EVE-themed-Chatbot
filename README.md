@@ -1,7 +1,7 @@
-![Binaryhood](Logo/logo.png)
+![EVE Chatbot LOGO](Logo/logo.png)
 
-# ChatBot
-
+# EVE - Themed ChatBot
+EVE (which stands for Extraterrestrial Vegetation Evaluator) is the deuteragonist of the 2008 Disney/Pixar animated feature film, WALL-E.
 ## Installation & Setup
 
 [Install Python] https://www.dataquest.io/blog/installing-python-on-mac/
