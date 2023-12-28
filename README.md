@@ -1,6 +1,6 @@
 ![EVE Chatbot LOGO](Logo/logo.png)
 
-# EVE - Themed ChatBot
+# EVE - Themed ChatBot - Made by Harsh Deepak Singh
 EVE (which stands for Extraterrestrial Vegetation Evaluator) is the deuteragonist of the 2008 Disney/Pixar animated feature film, WALL-E.
 ## Installation & Setup
 
